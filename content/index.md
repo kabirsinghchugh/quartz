@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Kabir Chugh's Digital Garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is my PKM/notes collection.
+
+Use the sidebar to explore the notes.

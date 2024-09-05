@@ -1,0 +1,43 @@
+
+| Information Transmission Medium | Emphasis                       | Essence                           | Characteristics/Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------------------- | ------------------------------ | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Phonetic                        | Emphasised memory              | Sound                             | <br>- Constrained by human range of phonetic sounds<br>- Speech carries emotion much better than writing, especially fear and terror<br>- General and not specific                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Writing                         | Emphasised logic and linearity | From sound to visuality           | <br>- Skillset required: Classification<br>- Without writing, there is no planning - complexity, architecture, bureaucracy, towns, civilization - the importance of printing press - affordability<br>- Record life and analytical mode of thought - improvements and versioning<br>- Embalming life<br>- Created division of labour and experts<br>- Specific and not general<br>- Allowed individualism and agency - portable book - rich men could read in private and gain a massive advantage - people could now inspire and conspire<br>- Still scrutiny<br>- High drag of backlog of existing technology<br>- Words as empty shells with accepted meaning<br>- "I don't follow"<br>- Metaphor of linearity - poverty line, line of sanity - we apply lines to nature |
+| Electric Medium                 |                                | Extension of Human nervous system | <br>- Decrease of space and time<br>- Non-Linearity introduction<br>- Information increase<br>- Cheaper costs - previous becomes much cheaper, especially print<br>- High specialisation<br>- Still significant drag of obsolete existing technology<br>- "I didn't grab"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Internet                        |                                |                                   | - Space and Time disappear<br>- Inundation of information<br>- Skillset required: Pattern recognition<br>- Can do away with print altogether - can be free for whomsoever finds a way<br>- Impossible regulation despite efforts<br>- Reversion to generality<br>- Inspire and conspire to the maximum<br>- Pattern recognition enabled through visual punning<br>- Outdated very quickly technology - previous still exists and still cheaper, embodies all previous<br>- From earlier separateness in metaphysics where dividing lines such as subject and object to more oriental unity type of thing - the philosophy of organism (read Process and Reality as the philosophy of organism)                                                                              |
+
+---
+
+---
+
+The Evolution of Communication
+
+To appreciate the evolution of human communication is to journey through the labyrinth of our shared history, encountering a tapestry of nuanced skills, technologies, and cultures. Let's begin by paying tribute to William Massey, who poetically framed this evolution as a mystic art of painting speech and speaking to the eyes. Our progression in communication can be best understood in terms of the mediums that have carried our messages throughout the ages.
+
+---
+
+It may be helpful to frame this exploration of communication mediums as a dialectic, a theory derived from the philosopher Hegel. A dialectic proposes that ideas and realities unfold through a pattern of thesis, antithesis, and synthesis - the interplay between conflicting forces that ultimately give rise to something new and transformative.
+
+---
+
+The first significant medium was phonetic speech. Phonetic communication leveraged the sound, range, and emotional nuance of the human voice. It was, by nature, general rather than specific, and highly dependent on memory. The power of voice to convey emotions, especially potent ones such as fear and terror, created an early and immediate sense of community and shared experience.
+
+---
+
+The advent of writing brought forth a new era. This medium emphasized logic, linearity, and classification, stimulating a more analytical mode of thought. The written word allowed for the recording and scrutiny of life, birthing complex structures such as architecture and bureaucracy that marked the inception of civilization.
+
+The importance of the printing press cannot be overstated, as it made written materials affordable and widely accessible. Books became tools of power and individual agency, enabling a person to gain knowledge in private, thus fostering the inspiration and even conspiracy. However, despite its advantages, writing was a specific form of communication and required a significant shift in societal skillsets and structures.
+
+---
+
+Electric mediums, notably the telegraph and then radio, expanded the human nervous system across physical boundaries. It redefined space and time, introducing non-linearity into the information transmission. The cost of previous forms of communication, such as print, decreased, and we witnessed a boom in information accessibility and distribution. Yet, this rapid evolution brought a drag of outdated technologies, as society grappled to keep pace with the acceleration of change.
+
+---
+
+Finally, we arrived at the age of the Internet, a realm where space and time virtually disappear. It engulfed us in an inundation of information, requiring a new skillset centered on pattern recognition. The internet, in its global scope, its constant flow of information, could inspire and conspire on a grand scale.
+
+While earlier forms of communication brought a sense of separateness, a division between subject and object, the internet urged a shift towards a more integrated, holistic understanding of the world, echoing philosophies that promote unity and interconnectedness, like those found in Alfred North Whitehead's Process and Reality.
+
+---
+
+To chart the course of human communication is to map the history of our collective consciousness. As we have evolved, so too have our means of transmitting thought and ideas, with each new medium shaping our societies, cultures, and individuals. Our past was shaped by speech, writing, electricity, and the Internet, and our future will be shaped by whatever medium emerges next, reminding us that the medium, indeed, is the message.
